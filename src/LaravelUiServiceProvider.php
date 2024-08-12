@@ -2,9 +2,9 @@
 
 namespace Prabin\LaravelUi;
 
+use Prabin\LaravelUi\Commands\LaravelUiCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Prabin\LaravelUi\Commands\LaravelUiCommand;
 
 class LaravelUiServiceProvider extends PackageServiceProvider
 {

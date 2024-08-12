@@ -2,6 +2,4 @@
 
 namespace Prabin\LaravelUi;
 
-class LaravelUi
-{
-}
+class LaravelUi {}
