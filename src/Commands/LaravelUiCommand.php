@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Prabin\LaravelUi\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelUiCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-ui';
 
     public $description = 'My command';
 
